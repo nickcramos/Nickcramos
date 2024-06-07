@@ -1,16 +1,13 @@
-## Hi there 👋
+## Meu nome é Nicoly👋
 
-<!--
-**nickcramos/Nickcramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Como entrar em contato comigo: 00001122541843sp@al.educacao.sp.gov.br
+- 🌱 Pronomes: Ela/Dela
+- 👯 Curiosidade: Amo Kpop
+- 💬 Não me pertubem, por favor !
+- 📫 Estou cursando Alura
+- 😄 Estou me desenvolvendo em linguagem javacript
+- ⚡ Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![] (https://media1.tenor.com/m/n5E_Xi3i6H8AAAAd/yoongi-nba-suga-nba.gif)
+![] (https://media1.tenor.com/m/U2gIDUrSAxwAAAAC/lee-dongmin-cha-eunwoo.gif)
+![] (https://media1.tenor.com/m/6JAnnWzabdsAAAAC/sveinislilac-skz.gif)
